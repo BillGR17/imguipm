@@ -2,7 +2,7 @@
 
 A simple Dear ImGui window with buttons for system control.
 
-![screenshot](https://billgr17.click/img/imguipm.jpg)
+![screenshot](https://static.billgr17.click/img/imguipm.jpg)
 
 ## Build Instructions
 
